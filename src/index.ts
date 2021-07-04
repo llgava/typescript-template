@@ -1,6 +1,6 @@
 /** A example of a "complex" "Hello World". */
 export class ComplexHelloWorld {
-// aaa
+
   /**
    * @param message Defines a message to show on console.
    * @returns A console log with message.
