@@ -9,7 +9,7 @@
     "forceConsistentCasingInFileNames": true,
     "module": "commonjs",
     "noImplicitAny": false,
-    "outDir": "./build/src",
+    "outDir": "./build",
     "resolveJsonModule": true,
     "rootDir": "./src",
     "skipLibCheck": true,
